@@ -15,3 +15,6 @@ ls -l – lista os arquivos e diretórios de forma detalhada
 ls -a – exibe arquivos e diretórios ocultos
 
 cat – exibe o conteúdo de um arquivo
+
+cp - faz cópias de segurança
+
